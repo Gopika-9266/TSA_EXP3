@@ -1,5 +1,5 @@
-## Name:
-## Reg No:
+## Name: Gopika R
+## Reg No: 212222240031
 ## Date:
 
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
